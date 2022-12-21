@@ -12,7 +12,7 @@ if(isset($_SESSION['login']))
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LANDING PAGE</title>
+    <title>Digital Library</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <link rel="stylesheet" href="css/index.css">
 </head>
@@ -21,7 +21,7 @@ if(isset($_SESSION['login']))
         <input type="checkbox" name="" id="check">
 
         <header class="header">
-            <h2><a href="#Home" class="logo">PERPUS</a></h2>
+            <h2><a href="#Home" class="logo">Digital Library</a></h2>
             <div class="navigation">
                 <a href="#">Home</a>
                 <a href="books.php">Books</a>
